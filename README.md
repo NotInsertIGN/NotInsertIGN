@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @RealInsertIGN
-- 👀 I’m interested in Java, C+, and HTML. (and minecraft)
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on any form of Discord bots.
-- 📫 You can reach me through Discord. Add me at InsertIGN#0001 to talk about anything you want to!
+Hello! I'm @NotInsertIGN, and I am a professional Java person! I am fluent in over twelve languages, including Java (best language), Python, Ruby, Swift, C++, C#, and C (not bragging I swear)
 
-<!---
-RealInsertIGN/RealInsertIGN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I generally work on projects related to @HypixelDev and my own websites. I also make cool applications, some of which are public on the GitHub :O
+
+Controversial Opinions:
+  Maven > Gradle
+  Python is a little cringe
+  
