@@ -3,6 +3,7 @@ Hello! I'm @NotInsertIGN, and I am a somewhat okay Java person-type-thing! I am 
 I generally work on projects related to @HypixelDev and my own websites. I also make cool applications, some of which are public on the GitHub :O
 
 Controversial Opinions:
+
   Maven > Gradle
 
   Python < Java
